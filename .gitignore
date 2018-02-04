@@ -1,0 +1,7 @@
+.rake_tasks~
+pkg/*
+build/
+.DS_Store
+.repl_history
+0
+Gemfile.lock
